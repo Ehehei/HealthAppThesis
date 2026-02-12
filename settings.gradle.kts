@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "helthAppDiplom"
 include(":app")
- 
+include(":data")
+include(":domain")
